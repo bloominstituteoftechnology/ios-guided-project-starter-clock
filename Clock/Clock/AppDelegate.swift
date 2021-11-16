@@ -3,7 +3,7 @@
 //  Clock
 //
 //  Created by Ben Gohlke on 6/24/19.
-//  Copyright © 2019 Lambda School. All rights reserved.
+//  Copyright © 2019 BloomTech. All rights reserved.
 //
 
 import UIKit
